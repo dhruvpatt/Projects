@@ -1,6 +1,4 @@
-Hey Ms.Navabi. 
 
-This is mine(Dhruv) and Haran's final project.
 
 When you run this program, you will see a login.
 
