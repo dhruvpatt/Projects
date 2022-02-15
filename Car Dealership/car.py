@@ -1,4 +1,4 @@
-# Dhruv Patel, Haran M.
+# Dhruv Patel
 # Dec 20th, 2021
 # Car Class
 
