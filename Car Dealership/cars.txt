@@ -1,0 +1,102 @@
+Honda Accord
+35000
+252
+I4
+Sedan
+Family Car
+Honda CRV
+40000
+190
+I4
+Suv
+Family Car
+BMW M5
+111100
+600
+V8
+Sedan
+Sports Car
+Toyota Supra
+50000
+382
+I6
+Coupe
+Sports Car
+Enzo Ferrari
+3800000
+651
+V12
+Coupe
+Super Car
+Lamborghini Aventador
+464009
+730
+V12
+Coupe
+Super Car
+Aston Martin Vanquish
+316000
+592
+V12
+Coupe
+Sports Car
+Ford Focus
+25000
+156
+I4
+Sedan
+Family Car
+Honda Civic
+21000
+158
+I4
+Sedan
+Family Car
+Audi Q5
+68000
+362
+V6
+Suv
+Family Car
+Audi R8
+172000
+552
+V10
+Coupe
+Super Car
+Mazda Cx9
+31000
+154
+I4
+Sedan
+Family Car
+Toyota Corolla
+23000
+160
+I4
+Sedan
+Family Car
+Honda HRV
+26000
+176
+I4
+Suv
+Family Car
+Toyota Rav4
+38000
+205
+I4
+Suv
+Family Car
+Ford Edge
+50000
+250
+V6
+Suv
+Family Car
+Mazda 3
+24000
+227
+I4
+Sedan
+Family Car
