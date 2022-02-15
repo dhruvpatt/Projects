@@ -1,2 +1,2 @@
 # Projects
-Dhruv Patel's CS Projecgts 
+Dhruv Patel's CS Projects 
